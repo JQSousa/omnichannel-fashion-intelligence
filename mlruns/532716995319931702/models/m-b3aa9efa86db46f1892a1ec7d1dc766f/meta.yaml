@@ -1,0 +1,10 @@
+artifact_location: /content/mlruns/532716995319931702/models/m-b3aa9efa86db46f1892a1ec7d1dc766f/artifacts
+creation_timestamp: 1778173812507
+experiment_id: '532716995319931702'
+last_updated_timestamp: 1778173820817
+model_id: m-b3aa9efa86db46f1892a1ec7d1dc766f
+model_type: null
+name: churn_xgboost
+source_run_id: b1af8d2a30724746b9b9efbdbae32651
+status: 2
+status_message: null
