@@ -1,0 +1,10 @@
+artifact_location: /content/mlruns/417834967448905141/models/m-6001fb76595746808d689c31d525ae15/artifacts
+creation_timestamp: 1778173820852
+experiment_id: '417834967448905141'
+last_updated_timestamp: 1778173826168
+model_id: m-6001fb76595746808d689c31d525ae15
+model_type: null
+name: clv_xgboost
+source_run_id: 11143bc4512847fa9cd92b82ad23ad1a
+status: 2
+status_message: null

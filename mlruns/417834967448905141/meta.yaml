@@ -1,0 +1,8 @@
+artifact_location: /content/mlruns/417834967448905141
+creation_time: 1778173536327
+experiment_id: '417834967448905141'
+last_update_time: 1778173536327
+lifecycle_stage: active
+name: fashion-clv-prediction
+trace_location: null
+workspace: default
