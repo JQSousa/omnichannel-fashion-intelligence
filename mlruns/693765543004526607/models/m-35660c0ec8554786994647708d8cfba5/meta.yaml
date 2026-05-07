@@ -1,0 +1,10 @@
+artifact_location: /content/mlruns/693765543004526607/models/m-35660c0ec8554786994647708d8cfba5/artifacts
+creation_timestamp: 1778173541702
+experiment_id: '693765543004526607'
+last_updated_timestamp: 1778173545962
+model_id: m-35660c0ec8554786994647708d8cfba5
+model_type: null
+name: kmeans_segmentation
+source_run_id: 5b89ce0b1d584c7d81c6041d35f44ce2
+status: 2
+status_message: null

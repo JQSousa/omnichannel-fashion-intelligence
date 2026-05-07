@@ -1,0 +1,8 @@
+artifact_location: /content/mlruns/693765543004526607
+creation_time: 1778173541684
+experiment_id: '693765543004526607'
+last_update_time: 1778173541684
+lifecycle_stage: active
+name: fashion-segmentation
+trace_location: null
+workspace: default

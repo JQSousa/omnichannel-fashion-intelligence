@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/693765543004526607/9ef0057b1cab40a78c916af88d10aa14/artifacts
+end_time: 1778173830213
+entry_point_name: ''
+experiment_id: '693765543004526607'
+lifecycle_stage: active
+run_id: 9ef0057b1cab40a78c916af88d10aa14
+run_name: kmeans_seg_v1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778173826175
+status: 3
+tags: []
+user_id: root
